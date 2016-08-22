@@ -1,21 +1,36 @@
-package com.order.entity;
+package com.order.core.entity;
+
+import com.order.core.vo.BaseVo;
 
 import java.util.Date;
 
-public class OrderCoreProductInfoTab {
+public class OrderCoreProductInfoTab extends BaseVo {
     private Integer productId;
 
     private String productName;
 
     private String productType;
 
-    private Byte status;
+    private Integer status;
 
     private String operater;
 
     private Date createTime;
 
     private Date updateTime;
+
+    public OrderCoreProductInfoTab() {
+    }
+
+    public OrderCoreProductInfoTab(Integer productId, String productName, String productType, Integer status, String operater, Date createTime, Date updateTime) {
+        this.productId = productId;
+        this.productName = productName;
+        this.productType = productType;
+        this.status = status;
+        this.operater = operater;
+        this.createTime = createTime;
+        this.updateTime = updateTime;
+    }
 
     public Integer getProductId() {
         return productId;
@@ -41,11 +56,11 @@ public class OrderCoreProductInfoTab {
         this.productType = productType;
     }
 
-    public Byte getStatus() {
+    public Integer getStatus() {
         return status;
     }
 
-    public void setStatus(Byte status) {
+    public void setStatus(Integer status) {
         this.status = status;
     }
 

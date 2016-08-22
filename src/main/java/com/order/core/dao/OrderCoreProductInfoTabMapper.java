@@ -1,6 +1,6 @@
-package com.order.dao;
+package com.order.core.dao;
 
-import com.order.entity.OrderCoreProductInfoTab;
+import com.order.core.entity.OrderCoreProductInfoTab;
 
 public interface OrderCoreProductInfoTabMapper {
     int deleteByPrimaryKey(Integer productId);
