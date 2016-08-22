@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4d203df-d0ba-4533-bc92-4c7d378d87a6" name="Default" comment="更新spring-dao.xml文件">
-      <change type="DELETED" beforePath="E:\github\order-core\src\main\java\com\order\dao\OrderCoreProductInfoTabMapper.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\order-core\src\main\java\com\order\entity\OrderCoreProductInfoTab.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\order-core\src\main\resources\mapper\OrderCoreProductInfoTabMapper.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/database_config.properties" afterPath="$PROJECT_DIR$/src/main/resources/database_config.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/order-core.iml" afterPath="$PROJECT_DIR$/order-core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/sql/schema.sql" afterPath="$PROJECT_DIR$/src/main/resources/sql/schema.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="e4d203df-d0ba-4533-bc92-4c7d378d87a6" name="Default" comment="更新spring-dao.xml文件" />
     <ignored path="ordering-core.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,8 +30,8 @@
       <file leaf-file-name="OrderCoreProductInfoTabMapperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/order/dao/OrderCoreProductInfoTabMapperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40490797" vertical-offset="0" max-vertical-offset="902">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state vertical-scroll-proportion="-0.9447853" vertical-offset="462" max-vertical-offset="902">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -1000,7 +985,7 @@
       <workItem from="1471742712180" duration="6069000" />
       <workItem from="1471758231114" duration="10709000" />
       <workItem from="1471869349794" duration="5475000" />
-      <workItem from="1471875479657" duration="2025000" />
+      <workItem from="1471875479657" duration="2260000" />
     </task>
     <task id="LOCAL-00001" summary="更新spring-dao.xml文件">
       <created>1471871831002</created>
@@ -1012,7 +997,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24278000" />
+    <option name="totallyTimeSpent" value="24513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1348,8 +1333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/order/dao/OrderCoreProductInfoTabMapperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40490797" vertical-offset="0" max-vertical-offset="902">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state vertical-scroll-proportion="-0.9447853" vertical-offset="462" max-vertical-offset="902">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding />
         </state>
       </provider>
